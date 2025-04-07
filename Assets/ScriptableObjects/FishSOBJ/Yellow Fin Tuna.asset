@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Yellow Fin Tuna
+  m_EditorClassIdentifier: 
+  FishName: Yellow Fin Tuna
+  FishType: 24
+  FishImage: {fileID: 21300000, guid: 11ef491aa7831294bba6bd5e19efc181, type: 3}
+  FishSize: up to 2.4 meters
+  FishDescription: 'The Yellowfin Tuna (Thunnus albacares) is a large and fast-swimming
+    fish known for its vibrant yellow fins and streamlined body. It''s highly prized
+    both commercially and in sport fishing due to its size, speed, and delicious
+    meat.
+
+
+    Yellowfin tunas have a sleek, streamlined body, with distinct bright
+    yellow fins, particularly on their dorsal and tail fins. Their body color is
+    typically metallic blue on top and silver on the underside. They also have long
+    pectoral fins and a sharp, pointed head.
+
+
+    Yellowfin tuna can grow to impressive
+    sizes, with adults reaching up to 8 feet (2.4 meters) in length and weighing
+    as much as 400 pounds (180 kg). However, most yellowfin tunas caught are much
+    smaller, around 50 to 100 pounds (22 to 45 kg).
+
+
+    Known for their speed,
+    yellowfin tuna can swim at speeds of up to 46 miles per hour (74 km/h), making
+    them one of the fastest fish in the ocean.'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I have a sleek, streamlined body with bright yellow fins, especially on my tail
+    and dorsal fin.
+  - I can grow up to 8 feet (2.4 meters) long and weigh up to 400 pounds (180 kg),
+    though most are much smaller.
+  - I'm one of the fastest fish in the ocean, swimming at speeds of up to 46 miles
+    per hour (74 km/h).
+  - I am highly migratory and often travel long distances in schools, especially
+    near the surface.
+  - ' I am popular in commercial fishing and sport fishing, and my meat is prized
+    for sushi and sashimi.'

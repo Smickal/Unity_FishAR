@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Moorish Idol
+  m_EditorClassIdentifier: 
+  FishName: Moorish Idol
+  FishType: 20
+  FishImage: {fileID: 21300000, guid: 3040df767e430f944be21744b6650a9a, type: 3}
+  FishSize: "18\u201323 cm"
+  FishDescription: 'The Moorish Idol (Zanclus cornutus) is a visually striking fish
+    known for its distinctive shape and bright coloration, often associated with
+    tropical coral reefs.
+
+
+    The Moorish idol has a triangular body, long, flowing
+    dorsal fin, and a filamentous tail. Its body is decorated with bold black, white,
+    and yellow patterns, with a prominent black vertical stripe running across the
+    middle of its body. This distinctive look gives it a highly ornamental appearance.
+
+
+    Moorish
+    idols are omnivores, mainly feeding on sponges, algae, and small invertebrates
+    that are found on coral reefs. They play an important role in keeping the reef
+    ecosystem balanced by grazing on algae and helping maintain reef health.
+
+
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - ' I have a triangular body, long flowing dorsal fins, and a long filamentous
+    tail.'
+  - My body is decorated with bold black, white, and yellow stripes, making me look
+    very ornamental.
+  - I am an omnivore, feeding on sponges, algae, and small invertebrates found on
+    coral reefs.

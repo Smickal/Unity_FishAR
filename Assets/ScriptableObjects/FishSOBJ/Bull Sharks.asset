@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Bull Sharks
+  m_EditorClassIdentifier: 
+  FishName: Bull Shark
+  FishType: 8
+  FishImage: {fileID: 21300000, guid: 8b553c2bfbe160e4fb37cbb5cacb5514, type: 3}
+  FishSize: "2.1\u20133.4 meters"
+  FishDescription: "The Bull Shark (Carcharhinus leucas) is one of the most aggressive
+    and adaptable sharks, known for its ability to survive in both saltwater and
+    freshwater. It is a large, powerful predator commonly found in warm coastal waters,
+    rivers, and even lakes.\n\n Bull sharks have a thick, heavy body, a broad, flat
+    snout, and small eyes, giving them a distinct, tough appearance.\n\nUnlike most
+    sharks, bull sharks can survive in rivers and lakes, thanks to their ability
+    to regulate salt levels in their bodies. They have been found in the Amazon River,
+    Mississippi River, and even Lake Nicaragua.\n\nBull sharks eat fish, dolphins,
+    turtles, birds, and even other sharks!\n\nDue to their presence in shallow waters,
+    bull sharks are believed to be one of the most common species involved in shark
+    attacks on humans.\n"
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I have a thick, muscular body and a broad, flat snout.
+  - I can live in both saltwater and freshwater, even in rivers and lakes.
+  - I am aggressive and have one of the strongest bite forces of any shark.
+  - I hunt fish, turtles, dolphins, and even other sharks.
+  - ' I stay in shallow coastal waters, making me more likely to encounter humans.'

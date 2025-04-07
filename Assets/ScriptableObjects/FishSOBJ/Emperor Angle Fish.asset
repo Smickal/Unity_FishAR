@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Emperor Angle Fish
+  m_EditorClassIdentifier: 
+  FishName: Emperor Angle Fish
+  FishType: 13
+  FishImage: {fileID: 21300000, guid: 16ed87bba7248c5449dad8a7d4b20bf1, type: 3}
+  FishSize: 38 cm
+  FishDescription: "The Emperor Angelfish (Pomacanthus imperator) is a strikingly
+    beautiful and vibrant reef fish known for its bold blue, yellow, and black coloration.
+    It is commonly found in the tropical Indo-Pacific region, particularly around
+    coral reefs.\n\n The adult Emperor Angelfish has deep blue and yellow stripes
+    across its body, with a dark blue face and yellow \"rays\" extending from the
+    center of its body. Juveniles are more blue with yellow and black markings.\n"
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - As a juvenile, I have blue with yellow and black markings.
+  - I can be aggressive and territorial, especially towards other angelfish.
+  - I am not an easy fish to keep in captivity and require a large tank.

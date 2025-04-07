@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Sting Ray
+  m_EditorClassIdentifier: 
+  FishName: Sting Ray
+  FishType: 23
+  FishImage: {fileID: 21300000, guid: 3d01eb727e04ff24ca0af55d75dcbbbf, type: 3}
+  FishSize: "1.8\u20132.1 meters"
+  FishDescription: 'The Stingray is a fascinating marine animal known for its flat,
+    disc-shaped body and barbed tail that can deliver a painful sting. They are part
+    of the Ray-finned fish family, and they are closely related to sharks.
+
+
+    Stingrays
+    have a flattened, disk-shaped body with wings that resemble a kite. Their bodies
+    are often covered in rough, sandpaper-like skin. They have eyes on top of their
+    head, and their mouths are located on the underside of their body.
+
+
+    Stingrays
+    are carnivores, feeding on small fish, crustaceans, mollusks, and worms. They
+    typically hunt by burrowing in the sand to uncover their prey. Their electroreceptors
+    help them locate food by detecting the electrical signals emitted by their prey.
+
+
+    One
+    of the most recognizable features of a stingray is its barbed tail. The barb
+    can release a potent venom that causes extreme pain and swelling, but it is usually
+    not fatal to humans unless there are complications. Not all stingrays have venomous
+    barbs, and many species use their stingers only for defense.
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I have a flat, disc-shaped body with wings that resemble a kite.
+  - My mouth is on the underside of my body, and my eyes are on top of my head.
+  - I have a barbed tail, which I use for defense, and my sting can cause pain and
+    swelling.
+  - I live in shallow coastal waters and estuaries, though some of my species live
+    in deeper waters.
+  - I am generally slow-moving and peaceful but can become aggressive if provoked.

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Sea Bass
+  m_EditorClassIdentifier: 
+  FishName: Sea Bass
+  FishType: 14
+  FishImage: {fileID: 21300000, guid: 3040df767e430f944be21744b6650a9a, type: 3}
+  FishSize: 38 cm
+  FishDescription: 'Sea Bass refers to several species of fish commonly found in
+    marine waters, particularly along the coasts. These fish are popular in both
+    commercial and recreational fishing due to their taste and fighting ability.
+
+
+    Sea
+    bass typically have elongated bodies, with a silvery-gray or dark coloration
+    on their backs, transitioning to lighter undersides. They have sharp, spiny dorsal
+    fins and are known for their muscular build.
+
+
+    Sea bass are carnivorous and
+    feed on smaller fish, crustaceans, and other invertebrates.
+
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - My meat is flaky and mild in flavor, making me a favorite in cooking.
+  - I am a popular catch for both commercial and sport fishing.
+  - I am carnivorous and feed on smaller fish, crustaceans, and invertebrates.

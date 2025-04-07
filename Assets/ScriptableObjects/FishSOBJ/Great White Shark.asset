@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Great White Shark
+  m_EditorClassIdentifier: 
+  FishName: Great White Shark
+  FishType: 15
+  FishImage: {fileID: 21300000, guid: b86f46b07485ea845bd34c5a4b6d8e2a, type: 3}
+  FishSize: "3.6\u20134.5 meters"
+  FishDescription: 'The Great White Shark (Carcharodon carcharias) is one of the
+    largest and most powerful predatory fish in the ocean, renowned for its strength,
+    speed, and aggressive nature.
+
+
+    Great whites have large, serrated teeth that
+    can be over 2 inches (5 cm) long. They are capable of shredding through the flesh
+    of seals, dolphins, and other prey.
+
+
+    They are apex predators, primarily
+    feeding on seals, sea lions, fish, and sometimes dolphins or small whales. They
+    hunt by using ambush tactics, swimming below their prey and attacking from below
+    with great speed and force.
+
+
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I am one of the largest and most powerful predatory fish in the ocean.
+  - My teeth are sharp and serrated, designed for tearing through the flesh of seals
+    and other prey.
+  - I primarily hunt seals, dolphins, and large fish using ambush tactics.
+  - ' I am an apex predator, meaning I''m at the top of the food chain in my environment.'
+  - My species is protected in many areas due to concerns about overfishing and my
+    declining numbers.

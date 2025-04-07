@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Mahi Mahi
+  m_EditorClassIdentifier: 
+  FishName: Mahi Mahi
+  FishType: 19
+  FishImage: {fileID: 21300000, guid: 3040df767e430f944be21744b6650a9a, type: 3}
+  FishSize: up to 1.8 meters
+  FishDescription: 'The Mahi-Mahi (Coryphaena hippurus), also known as dorado or
+    golden dolphinfish, is a brightly colored, fast-swimming fish found in warm oceanic
+    waters. Known for its distinctive coloration and delicious taste, the mahi-mahi
+    is highly prized by both commercial and sport fishermen.
+
+
+    Mahi-mahi are
+    brightly colored, with vibrant blue, green, and yellow hues. They often change
+    color as they swim and interact with light. The males, known as bulls, have a
+    large, prominent forehead.
+
+
+    They have a relatively short lifespan, typically
+    living up to 5 years, but their rapid growth and reproduction ensure that their
+    populations remain stable.
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - ' I am a brightly colored fish with vibrant blue, green, and yellow hues.'
+  - I am carnivorous, feeding on smaller fish, squid, and crustaceans.
+  - ' I have a relatively short lifespan, living up to 5 years, but I grow quickly.'
+  - ' I am a highly sought-after fish in both commercial and sport fishing for my
+    delicious meat.'

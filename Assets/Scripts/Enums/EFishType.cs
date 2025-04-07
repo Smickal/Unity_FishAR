@@ -1,0 +1,30 @@
+public enum EFishType
+{
+    RoyalGamma,
+    AmberJack,
+    AtlanticCod,
+    Barracuda,
+    BlackSpottedGrunt,
+    BlueMarlin,
+    BlueShark,
+    BlueTang,
+    BullShark,
+    ButterflyFish,
+    ClownTriggerFish,
+    ClownFish,
+    Dolphin,
+    EmperorAngleFish,
+    SeaBass,
+    GreatWhiteShark,
+    GreenTurtle,
+    LeopardSeal,
+    LionFish,
+    MahiMahi,
+    MoorishIdol,
+    Orca,
+    SpermWhale,
+    StingRay,
+    YellowFinTuna,
+    
+    DefaultMax
+}

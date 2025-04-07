@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a490636f8f553fa4ca906067cf6c9fa7
+timeCreated: 1532478803
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130885
+  packageName: Screenshot Helper Free
+  packageVersion: 1.3.8
+  assetPath: Assets/SWAN Dev/ScreenshotHelper/Scenes/MinimumDemo.unity
+  uploadId: 673764

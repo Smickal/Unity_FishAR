@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 614475b0fd1d54ad088aeff598138f0d
+timeCreated: 1507705456
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130885
+  packageName: Screenshot Helper Free
+  packageVersion: 1.3.8
+  assetPath: Assets/SWAN Dev/ScreenshotHelper/Scenes/ScreenshotDemo.cs
+  uploadId: 673764

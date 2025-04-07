@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Atlantic Cod
+  m_EditorClassIdentifier: 
+  FishName: Atlantic Cod
+  FishType: 2
+  FishImage: {fileID: 21300000, guid: 87d3dccaf8d596a4a9e817e4977e9a4d, type: 3}
+  FishSize: Up to 1.5 - 1.8 m
+  FishDescription: "The Atlantic cod (Gadus morhua) is a well-known cold-water fish
+    found in the North Atlantic Ocean. It has been an important species for commercial
+    fishing for centuries and is famous for its mild, flaky white meat.\n\nAtlantic
+    cod have a speckled brownish-green body with a lighter underside and a distinctive
+    barbel (whisker-like feature) on their chin, which helps them detect food.\n\n\t"
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 12
+  FishClues:
+  - ' I can grow up tp 1.5 to 1.8m'
+  - "I have flaky white meat and I\u2019m often used in fish and chips!"
+  - I live in cold waters of the North Atlantic Ocean.

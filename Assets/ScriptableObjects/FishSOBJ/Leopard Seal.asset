@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Leopard Seal
+  m_EditorClassIdentifier: 
+  FishName: Leopard Seal
+  FishType: 17
+  FishImage: {fileID: 21300000, guid: 56515c2935c588d4caa8bd5003701744, type: 3}
+  FishSize: "3\u20133.5m"
+  FishDescription: "The Leopard Seal (Hydrurga leptonyx) is a large, predatory seal
+    species found in the Antarctic and sub-Antarctic regions. Known for its powerful
+    build and distinctive spotted coat, it is a skilled predator in its icy environment.\n\nLeopard
+    seals are large, growing up to 10\u201312 feet (3\u20133.5 meters) in length
+    and weighing around 440\u20131,320 pounds (200\u2013600 kg).\n\nThey are carnivores,
+    feeding on a wide variety of prey, including krill, fish, squid, and penguins.
+    They are also known to prey on young seals and even small whales.\nThey are easily
+    recognizable due to their dark gray or silver coat with black spots, resembling
+    a leopard's pattern, hence the name.\n"
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I am a large, predatory seal with a distinctive spotted coat, resembling a leopard's
+    pattern.
+  - "I can grow up to 10\u201312 feet (3\u20133.5 meters) long and weigh up to 1,320
+    pounds (600 kg)."
+  - I am found in the cold waters of the Antarctic and sub-Antarctic regions.
+  - I have a thick layer of blubber and dense fur to keep me warm in freezing waters.

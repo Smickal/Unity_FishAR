@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Green Turtle
+  m_EditorClassIdentifier: 
+  FishName: Green Turtle
+  FishType: 16
+  FishImage: {fileID: 21300000, guid: 557ca897df6f34a4fa23276422565db0, type: 3}
+  FishSize: 1.5 meters
+  FishDescription: "The Green Turtle (Chelonia mydas) is a large, herbivorous marine
+    turtle known for its distinctive green-colored fat beneath its shell. These turtles
+    are found in tropical and subtropical oceans worldwide.\n\nSize \u2013 Green
+    turtles can grow up to 5 feet (1.5 meters) in length and weigh between 240\u2013700
+    pounds (110\u2013315 kg).\n\nUnlike other sea turtles, green turtles are primarily
+    herbivores, feeding on seagrasses and algae, which contribute to their green-colored
+    fat.\n\nGreen turtles can live for up to 80 years in the wild.\n\nDue to threats
+    like habitat loss, illegal hunting, bycatch, and climate change, green turtles
+    are considered endangered and are protected by international conservation efforts."
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - ' I am mostly herbivorous, feeding on seagrasses and algae.'
+  - ' I return to the beach where I was born to lay my eggs, usually at night.'
+  - I can live up to 80 years.
+  - I am a protected species due to threats like habitat loss, climate change, and
+    illegal hunting.

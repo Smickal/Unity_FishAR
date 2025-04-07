@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 06815d34bb8fc42cc87fb36fd544e895
+timeCreated: 1509189371
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130885
+  packageName: Screenshot Helper Free
+  packageVersion: 1.3.8
+  assetPath: Assets/SWAN Dev/Common/Materials/SpriteDefault.mat
+  uploadId: 673764

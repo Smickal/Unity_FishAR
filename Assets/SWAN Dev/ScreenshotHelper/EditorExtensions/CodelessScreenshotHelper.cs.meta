@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1a97182c5ebdc8841a797a0d04e5e030
+timeCreated: 1548434015
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130885
+  packageName: Screenshot Helper Free
+  packageVersion: 1.3.8
+  assetPath: Assets/SWAN Dev/ScreenshotHelper/EditorExtensions/CodelessScreenshotHelper.cs
+  uploadId: 673764

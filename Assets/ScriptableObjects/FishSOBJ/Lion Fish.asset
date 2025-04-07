@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Lion Fish
+  m_EditorClassIdentifier: 
+  FishName: Lion Fish
+  FishType: 18
+  FishImage: {fileID: 21300000, guid: 5acac28b5be902342acd876fc2b244b2, type: 3}
+  FishSize: "38\u201343 cm"
+  FishDescription: 'The Lionfish (Pterois) is a strikingly beautiful yet dangerous
+    fish, known for its venomous spines and unique appearance. Native to the Indo-Pacific,
+    lionfish have become an invasive species in the Atlantic Ocean.
+
+
+    Lionfish
+    are easily recognizable due to their long, flowing fins that resemble a lion''s
+    mane. Their bodies are marked with red, white, and brown vertical stripes, making
+    them visually striking.'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I have long, flowing fins and a body marked with red, white, and brown stripes.
+  - ' I am known for my venomous spines, which can cause intense pain and swelling
+    if stung.'
+  - I pose a threat to local ecosystems by reducing native fish populations.

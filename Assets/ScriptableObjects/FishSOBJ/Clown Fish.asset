@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Clown Fish
+  m_EditorClassIdentifier: 
+  FishName: Clown Fish
+  FishType: 11
+  FishImage: {fileID: 21300000, guid: dadcdee2264f1b24c862a52f692870fe, type: 3}
+  FishSize: "7\u201310 cm"
+  FishDescription: "The Clownfish (Amphiprioninae) is a small, colorful fish famous
+    for its symbiotic relationship with sea anemones and its vibrant orange, black,
+    and white coloring. It\u2019s one of the most well-known reef fish due to its
+    charming personality and bright colors.\n\nClownfish are typically bright orange
+    with white bands outlined by black edges, although some species can have different
+    color variations.\n\n"
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I am bright orange with white bands outlined by black edges.
+  - "I live in sea anemones, where I\u2019m protected by their venomous tentacles."
+  - I am known for my role in the movie Finding Nemo.

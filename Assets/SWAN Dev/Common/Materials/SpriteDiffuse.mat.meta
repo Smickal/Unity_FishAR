@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a24339e859244551bed51e4e9a5981d
+timeCreated: 1509189371
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130885
+  packageName: Screenshot Helper Free
+  packageVersion: 1.3.8
+  assetPath: Assets/SWAN Dev/Common/Materials/SpriteDiffuse.mat
+  uploadId: 673764

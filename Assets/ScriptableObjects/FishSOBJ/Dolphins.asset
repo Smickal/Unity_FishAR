@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Dolphins
+  m_EditorClassIdentifier: 
+  FishName: Dolphin
+  FishType: 12
+  FishImage: {fileID: 21300000, guid: 87a3036f0ab8771479d38323cfe3e99d, type: 3}
+  FishSize: "1.8\u20132.4 meters"
+  FishDescription: 'The Dolphin (Delphinidae) is a highly intelligent and social
+    marine mammal known for its playful behavior and distinctive bottle-shaped snout.
+    Dolphins are found in oceans and seas worldwide, particularly in warm coastal
+    waters.
+
+
+    Dolphins are among the most intelligent animals on the planet,
+    capable of using tools, solving problems, and even communicating using complex
+    sounds.
+
+
+    They are known for their playful behavior, such as riding the bow
+    waves of boats, leaping out of the water, and playing games with other dolphins
+    or even humans.
+
+
+    Dolphins are highly social animals, living in groups called
+    pods, which can range from a few individuals to hundreds.
+
+
+    Dolphins have
+    sleek, streamlined bodies built for speed, capable of swimming up to 25 mph (40
+    km/h).'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - I am known for my playful and social behavior.
+  - ' I have a sleek, streamlined body and can swim up to 25 mph (40 km/h).'
+  - I am highly intelligent and capable of solving problems.
+  - I have a distinct bottle-shaped snout.
+  - I am a mammal, so I must come to the surface to breathe.

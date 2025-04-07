@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47cb52a047ceaa945a225b94930ba4e4, type: 3}
+  m_Name: Clown Trigger Fish
+  m_EditorClassIdentifier: 
+  FishName: Clown Trigger Fish
+  FishType: 10
+  FishImage: {fileID: 21300000, guid: 49d3d8f5b3d4f894caf67fba26ecc95b, type: 3}
+  FishSize: grows up to 50 cm
+  FishDescription: 'The Clown Triggerfish (Balistoides conspicillum) is a boldly
+    patterned reef fish known for its striking colors and aggressive personality.
+    It is found in tropical coral reefs of the Indo-Pacific region.
+
+
+    It has
+    a black body covered in large white spots on the lower half, a yellow snout,
+    and a leopard-like pattern on its upper body, making it one of the most recognizable
+    fish in the ocean.
+
+
+    Like all triggerfish, it has a special locking dorsal
+    spine that it raises when threatened, making it hard for predators to pull them
+    out of hiding spots.
+
+
+'
+  MinScaleOffsetForViewingUI: 2
+  MaxScaleOffsetForViewingUI: 7
+  FishClues:
+  - ' I have a bold black body with large white spots on my lower half.'
+  - My snout is bright yellow, and my upper body has a leopard-like pattern.
+  - I am very territorial and will aggressively defend my space, even from divers!
+  - I have a special "trigger" spine that locks me into hiding places for protection.
