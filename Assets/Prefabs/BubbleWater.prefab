@@ -1,0 +1,601 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2800992307962092300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4902125752219983633}
+  m_Layer: 0
+  m_Name: BubbleWater
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4902125752219983633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2800992307962092300}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1309784419779607081}
+  - {fileID: 5433166272172739702}
+  - {fileID: 2676699613808189987}
+  - {fileID: 7815216768558436667}
+  - {fileID: 7679803575300710563}
+  - {fileID: 3508753248894288024}
+  - {fileID: 8101785236261369832}
+  - {fileID: 1608057910376709429}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &562150940147519732
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.82799995
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.143
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &8101785236261369832 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 562150940147519732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2006144507487450663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &7815216768558436667 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 2006144507487450663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2104974724163110847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.232
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.248
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &7679803575300710563 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 2104974724163110847}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4378624747609828202
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &5433166272172739702 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 4378624747609828202}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5121687405252732804
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.82799995
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &3508753248894288024 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 5121687405252732804}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5946994441101215039
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.85099995
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &2676699613808189987 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 5946994441101215039}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7057848513576262185
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.119
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.143
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &1608057910376709429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 7057848513576262185}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7318122963620076853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4902125752219983633}
+    m_Modifications:
+    - target: {fileID: 6267976087741862599, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998808, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Name
+      value: CFXR4 Bubbles Breath Underwater Loop
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.337
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.322
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620588918006998814, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+--- !u!4 &1309784419779607081 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8620588918006998812, guid: 7f906c77905876d488e88e99d13c3d7d, type: 3}
+  m_PrefabInstance: {fileID: 7318122963620076853}
+  m_PrefabAsset: {fileID: 0}

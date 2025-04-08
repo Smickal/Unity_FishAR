@@ -30116,7 +30116,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 203ed99c5a855469ca0d90764b39c0eb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0d26f72b79a260148b1f4905c738a95a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -31165,7 +31165,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: a0c56f0d0efb7e047af0dbe76b573d43, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 5dd5c80aae520074f885021f7c3fbe04, type: 2}
 --- !u!4 &1349698129
 Transform:
   m_ObjectHideFlags: 0
