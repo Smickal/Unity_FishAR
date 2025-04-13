@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
 
@@ -31,6 +32,12 @@ public class CameraRayCastManager : MonoBehaviour
     [SerializeField] private FishAssessmentManager _fishAssessmentManager;
     [SerializeField] private FishControl _tutorialFishControl;
     [SerializeField] private SaveManager _saveManager;
+    [SerializeField] private PhotoRenderManager _photoRenderManager;
+    [SerializeField] private Transform _PopUpSpawnLoc;
+    [SerializeField] private AudioSource _photoSoundSFX;
+     
+    [Header("Prefab")] 
+    [SerializeField] private GameObject _PopUpObject;
     
     private RaycastHit[] BoxCastHit;
     private List<FishControl> CapturedFishes = new List<FishControl>();
@@ -51,6 +58,10 @@ public class CameraRayCastManager : MonoBehaviour
 
         isTakingAPicture = true;
         _flashCameraController.PlayFlashAnim();
+        if (_photoSoundSFX)
+        {
+            _photoSoundSFX.Play();
+        }
         StartCoroutine(CooldownEnd());
         
         
@@ -123,7 +134,14 @@ public class CameraRayCastManager : MonoBehaviour
                 
                 Fish.ResetPoint();
             }
+            
+            TriggerPopUp("Gallery Updated!");
         }
+        else
+        {
+            TriggerPopUp("Photo Taken!");
+        }
+
     }
 
     private void HandleTutorialLearning()
@@ -188,5 +206,19 @@ public class CameraRayCastManager : MonoBehaviour
             
         }
         
+    }
+
+    private void TriggerPopUp(string Message)
+    {
+        GameObject newPopUp = Instantiate(_PopUpObject, _PopUpSpawnLoc);
+        newPopUp.GetComponent<TMP_Text>().SetText(Message);
+
+        StartCoroutine(DestroyPopUpOnTimer(newPopUp));
+    }
+
+    IEnumerator DestroyPopUpOnTimer(GameObject obj)
+    {
+        yield return new WaitForSeconds(5f);
+        Destroy(obj);
     }
 }
